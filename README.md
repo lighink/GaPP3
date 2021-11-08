@@ -9,7 +9,9 @@ To use GaPP3,  first use miniconda to build an envirenment with python=3.X, nump
 import sys
 
 sys.path.insert(0,'/data/tyang/software/GaPP3/')
+
 sys.path.insert(0,'/data/tyang/software/GaPP3/gapp/')
+
 sys.path.insert(0,'/data/tyang/software/GaPP3/gapp/covfunctions/')
 
 Please replace the location with your own location of GaPP3.
