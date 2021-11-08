@@ -16,4 +16,4 @@ sys.path.insert(0,'/data/tyang/software/GaPP3/gapp/covfunctions/')
 
 Please replace the location with your own location of GaPP3.
 
-For examples please refere to the examples directory.
+For the examples please refere to the examples directory.
