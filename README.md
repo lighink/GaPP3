@@ -7,6 +7,7 @@ For the original version of GaPP please refere to Marina Seikel, Chris Clarkson,
 To use GaPP3,  first use miniconda to build an envirenment with python=3.X, numpy, scipy, matplotlib, emcee, corner. Then in the python script we include the GaPP3 directory into PYTHONPATH.
 
 import sys
+
 sys.path.insert(0,'/data/tyang/software/GaPP3/')
 sys.path.insert(0,'/data/tyang/software/GaPP3/gapp/')
 sys.path.insert(0,'/data/tyang/software/GaPP3/gapp/covfunctions/')
