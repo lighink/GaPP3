@@ -22,5 +22,5 @@ Please replace the location with your own location of GaPP3.
 
 For the basic examples please refere to the examples directory.
 
-For the manual book please see the original documentation of gapp. The usage is not changed. Note we do not need acor package in MCMC. 
+For the manual book please see the original documentation of gapp. The usage is not changed. Note now we do not need acor package for MCMC. 
 
